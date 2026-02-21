@@ -23,7 +23,6 @@
 - [Docker Deployment](#docker-deployment)
 - [Sample Request & Response](#sample-request--response)
 - [Model Details](#model-details)
-- [Future Roadmap](#future-roadmap)
 
 ---
 
